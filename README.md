@@ -1,5 +1,5 @@
 # Covid-19-Contact-Tracker
 
 
-## Contiributing
-In short - we want your help! Check out our (/.github/contributing.md)
+## Contributing
+**In short - we want your help!** Check out our [CONTRIBUTING.MD](../.github/contributing.md)
