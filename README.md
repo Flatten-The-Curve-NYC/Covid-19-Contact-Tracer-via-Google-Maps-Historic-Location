@@ -2,4 +2,4 @@
 
 
 ## Contributing
-**In short - we want your help!** Check out our [CONTRIBUTING.MD](../.github/contributing.md)
+**In short - we want your help!** Check out our [CONTRIBUTING.MD](./.github/contributing.md)
