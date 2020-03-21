@@ -4,7 +4,8 @@ Our Simple Vision
 =====
 Use  everyone's already recorded location trails to bolster [contact tracing](https://en.wikipedia.org/wiki/Contact_tracing). Through better contact tracing, we can better deploy limited tests and improve containment policies -- [flattening the curve](https://en.wikipedia.org/wiki/Coronavirus_disease_2019#Prevention).
 
-![flattening the curve](https://upload.wikimedia.org/wikipedia/commons/c/c5/Covid-19-curves-graphic-social-v3.gif)
+We aren't scientists or epidemiologists, but our goal is that if we can be efficent with tracing contact, our containment, 
+quarantine, and other measures that cut into our lives can slowly be rolled back while keeping people safe and healthy.
 
 Table of Contents
 =================
