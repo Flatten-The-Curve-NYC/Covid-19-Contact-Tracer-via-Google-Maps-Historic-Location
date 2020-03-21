@@ -1,11 +1,25 @@
 # Flatten The Curve NYC
 
-# Our Simple Vision
+Our Simple Vision
+=====
 Use  everyone's already recorded location trails to bolster [contact tracing](https://en.wikipedia.org/wiki/Contact_tracing). Through better contact tracing, we can better deploy limited tests and improve containment policies -- [flattening the curve](https://en.wikipedia.org/wiki/Coronavirus_disease_2019#Prevention).
 
 ![flattening the curve](https://upload.wikimedia.org/wikipedia/commons/c/c5/Covid-19-curves-graphic-social-v3.gif)
 
-## Containment / Principles of Contact Tracing 
+Table of Contents
+=================
+
+- [Our Simple Vision](#our-simple-vision)
+- [Table of Contents](#table-of-contents)
+- [Containment / Principles of Contact Tracing](#containment---principles-of-contact-tracing)
+- [New York’s Unique Challenge](#new-york-s-unique-challenge)
+- [Isn't this being done?](#isn-t-this-being-done-)
+  * [Where Flatten The Curve NYC differs from MIT Private Kit: Safe Paths?](#where-flatten-the-curve-nyc-differs-from-mit-private-kit--safe-paths-)
+- [Contributing](#contributing)
+- [Related Documents](#related-documents)
+
+Containment / Principles of Contact Tracing 
+======
 Containment is the best way to slow this epidemic. But for containment to be effective, it needs:
 1. Rapid identification (and quarantine) of infected individuals, and 
 1. Determining Close Contacts; the determination of whom they have had close contact within the previous days and weeks, and decontamination of locations the infected individual has visited. 
@@ -21,28 +35,33 @@ However, first-generation contact-tracing tools, deployed against the current 20
 Note this section is heavily based on the white paper by MIT Private Kit: Safe Paths (http://privatekit.mit.edu/). 
 
 
-## New York’s Unique Challenge
+New York’s Unique Challenge
+======
 Many of us are staying at home, and when out for essential reasons, we are following the CDC’s distancing guidelines, but in a city with almost 9 million people, contact with the infected is almost inevitable. 
 
 Further compounding the issue is the anonymity of that contact. It is unlikely that a New Yorker would be able to recount all of the other people they came in contact with while picking up their prescriptions at Duane Reade or stocking up on groceries at Morton Williams. 
 
-## Isn't this being done?
+Isn't this being done?
+=====
 Sorta!
 * [MIT Private Kit: Safe Paths](http://privatekit.mit.edu/)
 * Rumors about Facebook and Google working on this. [The government might want your phone location data to fight coronavirus. Here’s why that could be okay.](https://www.vox.com/recode/2020/3/18/21184160/government-location-data-coronavirus)
 
-## Where Flatten The Curve NYC differs from MIT Private Kit: Safe Paths?
+Where Flatten The Curve NYC differs from MIT Private Kit: Safe Paths?
+-------
 [MIT Private Kit: Safe Paths](http://privatekit.mit.edu/) are forward looking location tracking. For MIT Private Kit, people will install and the location history commences from that point forward. 
 
 We cannot afford to wait for that location history, and feel that with the wealth of existing location data (https://www.google.com/maps/timeline), we can expand on the principles and ideas espoused by MIT Private Kit: Safe Paths and make the adoption more ubiquitous.
 
 The more location data of infected and uninfected individuals will make contact tracing more effective, enable better containment, and therefore flatten the curve in New York City.
 
-## Contributing
+Contributing
+======
 **In short - we want your help!** Check out our CONTRIBUTING.MD
 
 
-## Related Documents
+Related Documents
+======
 * [Phones Could Track the Spread of Covid-19. Is It a Good Idea?](https://www.wired.com/story/phones-track-spread-covid19-good-idea/)
 * [CoEpi: Community Epidemiology In Action](https://www.coepi.org/)
 * [The government might want your phone location data to fight coronavirus. Here’s why that could be okay.](https://www.vox.com/recode/2020/3/18/21184160/government-location-data-coronavirus)
