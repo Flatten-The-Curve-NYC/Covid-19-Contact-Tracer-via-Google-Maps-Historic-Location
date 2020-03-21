@@ -13,8 +13,8 @@ Table of Contents
 - [Table of Contents](#table-of-contents)
 - [Containment / Principles of Contact Tracing](#containment---principles-of-contact-tracing)
 - [New York’s Unique Challenge](#new-york-s-unique-challenge)
-- [Isn't this being done?](#isn-t-this-being-done-)
-  * [Where Flatten The Curve NYC differs from MIT Private Kit: Safe Paths?](#where-flatten-the-curve-nyc-differs-from-mit-private-kit--safe-paths-)
+- [Isn't this being done?](#isn-t-this-being-done)
+  * [Where Flatten The Curve NYC differs from MIT Private Kit: Safe Paths?](#where-flatten-the-curve-nyc-differs-from-mit-private-kit--safe-paths)
 - [Contributing](#contributing)
 - [Related Documents](#related-documents)
 
