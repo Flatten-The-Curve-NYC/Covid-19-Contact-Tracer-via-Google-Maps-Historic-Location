@@ -9,7 +9,7 @@ Use  everyone's already recorded location trails to bolster [contact tracing](ht
 
 Our goal is that if we can be efficent with tracing contact,  containment, quarantine, and other measures that cut into our lives can slowly be rolled back while keeping people safe and healthy.
 
-More Detailed
+How?
 -----
 * Web App - Node.js (or other platform?)
   * Upload Google Timeline information (ideally automatic, but if not manually download .kml file from https://takeout.google.com/ and upload) 
@@ -20,10 +20,6 @@ More Detailed
   * User accounts will have COVID-19 infection status
   * If user becomes infected, they change their status 
   * If interactions with infected occured, all contacts with interactions are notified
-
-How?
------
-That's where we need your help. 
 
 Containment / Principles of Contact Tracing 
 ======
