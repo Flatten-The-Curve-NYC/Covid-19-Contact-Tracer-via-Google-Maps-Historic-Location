@@ -42,6 +42,6 @@ The more location data of infected and uninfected individuals will make contact 
 
 Join our [slack channel](https://join.slack.com/t/flattenthecur-00u2999/shared_invite/zt-d00fwcbr-lTHNpydSfmo4PyLEPzqjNQ)
 ## Related Documents
-[Phones Could Track the Spread of Covid-19. Is It a Good Idea?](https://www.wired.com/story/phones-track-spread-covid19-good-idea/)
-[CoEpi: Community Epidemiology In Action](https://www.coepi.org/)
+*[Phones Could Track the Spread of Covid-19. Is It a Good Idea?](https://www.wired.com/story/phones-track-spread-covid19-good-idea/)
+*[CoEpi: Community Epidemiology In Action](https://www.coepi.org/)
 
