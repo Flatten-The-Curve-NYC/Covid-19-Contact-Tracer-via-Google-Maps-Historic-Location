@@ -26,6 +26,10 @@ Many of us are staying at home, and when out for essential reasons, we are follo
 
 Further compounding the issue is the anonymity of that contact. It is unlikely that a New Yorker would be able to recount all of the other people they came in contact with while picking up their prescriptions at Duane Reade or stocking up on groceries at Morton Williams. 
 
+## Why isn't this being done?
+Sorta!
+* [MIT Private Kit: Safe Paths](http://privatekit.mit.edu/)
+* [The government might want your phone location data to fight coronavirus. Here’s why that could be okay.](https://www.vox.com/recode/2020/3/18/21184160/government-location-data-coronavirus)
 
 ## Where Flatten The Curve NYC differs from MIT Private Kit: Safe Paths?
 [MIT Private Kit: Safe Paths](http://privatekit.mit.edu/) are forward looking location tracking. For MIT Private Kit, people will install and the location history commences from that point forward. 
