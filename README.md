@@ -1,8 +1,11 @@
 # Flatten The Curve NYC
 
-# Our Vision
+# Our Simple Vision
+Use already everyone's already recorded location trails to bolster [contact tracing](https://en.wikipedia.org/wiki/Contact_tracing). Through better contact tracing, we can better deploy limited tests and improve containment policies -- [flattening the curve](https://en.wikipedia.org/wiki/Coronavirus_disease_2019#Prevention).
 
-## Containment / Principles of Contact Tracking 
+![flattening the curve](https://en.wikipedia.org/wiki/Coronavirus_disease_2019#/media/File:Covid-19-curves-graphic-social-v3.gif)
+
+## Containment / Principles of Contact Tracing 
 Containment is the best way to slow this epidemic. But for containment to be effective, it needs:
 1. Rapid identification (and quarantine) of infected individuals, and 
 1. Determining Close Contacts; the determination of whom they have had close contact within the previous days and weeks, and decontamination of locations the infected individual has visited. 
