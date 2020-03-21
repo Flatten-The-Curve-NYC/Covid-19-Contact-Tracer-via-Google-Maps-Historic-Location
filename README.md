@@ -28,7 +28,7 @@ Further compounding the issue is the anonymity of that contact. It is unlikely t
 
 
 ## Where Flatten The Curve NYC differs from MIT Private Kit: Safe Paths?
-[MIT Private Kit: Safe Paths](http://privatekit.mit.edu/) are forward looking. For MIT Private Kit, people will install and the location history commences from that point forward. 
+[MIT Private Kit: Safe Paths](http://privatekit.mit.edu/) are forward looking location tracking. For MIT Private Kit, people will install and the location history commences from that point forward. 
 
 We cannot afford to wait for that location history, and feel that with the wealth of existing location data (https://www.google.com/maps/timeline), we can expand on the principles and ideas espoused by MIT Private Kit: Safe Paths and make the adoption more ubiquitous.
 
