@@ -6,17 +6,6 @@ Use  everyone's already recorded location trails to bolster [contact tracing](ht
 
 Our goal is that if we can be efficent with tracing contact,  containment, quarantine, and other measures that cut into our lives can slowly be rolled back while keeping people safe and healthy.
 
-Table of Contents
-=================
-
-- [Our Simple Vision](#our-simple-vision)
-- [Table of Contents](#table-of-contents)
-- [Containment / Principles of Contact Tracing](#containment---principles-of-contact-tracing)
-- [New York’s Unique Challenge](#new-york-s-unique-challenge)
-- [Isn't this being done?](#isn-t-this-being-done)
-  * [Where Flatten The Curve NYC differs from MIT Private Kit: Safe Paths?](#where-flatten-the-curve-nyc-differs-from-mit-private-kit--safe-paths)
-- [Contributing](#contributing)
-- [Related Documents](#related-documents)
 
 Containment / Principles of Contact Tracing 
 ======
