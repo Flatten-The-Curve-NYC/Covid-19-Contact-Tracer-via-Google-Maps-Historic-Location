@@ -1,11 +1,29 @@
 # Flatten The Curve NYC
 
-Our Simple Vision
+Our Vision
 =====
+
+Simple
+-----
 Use  everyone's already recorded location trails to bolster [contact tracing](https://en.wikipedia.org/wiki/Contact_tracing). Through better contact tracing, we can better deploy limited tests and improve containment policies -- [flattening the curve](https://en.wikipedia.org/wiki/Coronavirus_disease_2019#Prevention).
 
 Our goal is that if we can be efficent with tracing contact,  containment, quarantine, and other measures that cut into our lives can slowly be rolled back while keeping people safe and healthy.
 
+More Detailed
+-----
+* Web App - Node.js (or other platform?)
+  * Upload Google Timeline information (ideally automatic, but if not manually download .kml file from https://takeout.google.com/ and upload) 
+  * Parse location data and disgard data before COVID-19 outbreak
+  * Remove PII (personally identifiable information) before storing
+  * Some PII will be readded by user (not from .kml info) so user can be contacted
+  * Prove authenticity users - need to confirm the database doesn't get corrupted with fake information
+  * User accounts will have COVID-19 infection status
+  * If user becomes infected, they change their status 
+  * If interactions with infected occured, all contacts with interactions are notified
+
+How?
+-----
+That's where we need your help. 
 
 Containment / Principles of Contact Tracing 
 ======
