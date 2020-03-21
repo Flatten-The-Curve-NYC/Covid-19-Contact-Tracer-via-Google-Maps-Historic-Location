@@ -41,7 +41,9 @@ The more location data of infected and uninfected individuals will make contact 
 **In short - we want your help!** Check out our CONTRIBUTING.MD
 
 Join our [slack channel](https://join.slack.com/t/flattenthecur-00u2999/shared_invite/zt-d00fwcbr-lTHNpydSfmo4PyLEPzqjNQ)
+
 ## Related Documents
-*[Phones Could Track the Spread of Covid-19. Is It a Good Idea?](https://www.wired.com/story/phones-track-spread-covid19-good-idea/)
-*[CoEpi: Community Epidemiology In Action](https://www.coepi.org/)
+* [Phones Could Track the Spread of Covid-19. Is It a Good Idea?](https://www.wired.com/story/phones-track-spread-covid19-good-idea/)
+* [CoEpi: Community Epidemiology In Action](https://www.coepi.org/)
+* [The government might want your phone location data to fight coronavirus. Here’s why that could be okay.](https://www.vox.com/recode/2020/3/18/21184160/government-location-data-coronavirus)
 
