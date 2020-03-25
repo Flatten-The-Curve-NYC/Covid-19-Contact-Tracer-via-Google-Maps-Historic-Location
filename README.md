@@ -1,4 +1,4 @@
-# Flatten The Curve NYC
+# Flatten The Curve NYC (now working with [CoronaTrace](https://github.com/Corona-Trace))
 
  We have joined forces with [CoronaTrace](https://github.com/Corona-Trace). Check out their repos and progress!
 
