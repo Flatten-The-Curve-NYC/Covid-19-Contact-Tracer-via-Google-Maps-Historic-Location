@@ -1,5 +1,8 @@
 # Flatten The Curve NYC
 
+We have joined forces with [CoronaTrace](https://github.com/Corona-Trace)! 
+
+
 Our Vision
 =====
 
